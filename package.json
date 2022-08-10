@@ -1,0 +1,25 @@
+{
+  "name": "memebot",
+  "version": "1.0.0",
+  "description": "The best app of 2020",
+  "main": "memebot.js",
+  "scripts": {
+    "bot": "nodemon memebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spappz/memebot.git"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "license": "GPLv3",
+  "author": "Spappz and friends",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "googleapis": "^59.0.0",
+    "remove-markdown": "^0.3.0"
+  }
+}
