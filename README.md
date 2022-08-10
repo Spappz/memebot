@@ -7,6 +7,7 @@ I did not understand Javascript when I wrote this. I have no idea if it's stable
 Welcome to MemeBot™.
 
 ### Usage
+- `npm i` (once)
 - `npm run bot`
 - Every now and then, memebot will spot a meme in someone's post and will enthusiastically jump into the chat to show you!
 - If you mention certain words or phrases while in VC, memebot will join VC with you to give you some hearty chuckles. 
